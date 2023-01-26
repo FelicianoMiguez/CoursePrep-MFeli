@@ -1,2 +1,1 @@
-# CoursePrep-MFeli
-Este es un segundo repositorio de prueba modulo 2 github
+este proyecto es una prueba de como crear un repositorio y como clonarlo desde github a mi computadora
